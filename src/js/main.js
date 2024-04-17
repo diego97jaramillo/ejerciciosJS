@@ -73,6 +73,7 @@ const booleana = true;
 
 console.log(typeof(booleana));
 
+/* ej 19 */
 const arreglo = ['simon', 'freddy', 'alberto']
 
 console.log(arreglo.length);
